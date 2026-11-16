@@ -1,0 +1,92 @@
+{
+  "2026-11-16": [
+    {"name": "Şehriye Çorbası", "calories": 140, "protein": 4.0, "carbs": 22.0, "fat": 4.0},
+    {"name": "Orman Kebabı", "calories": 340, "protein": 24.0, "carbs": 14.0, "fat": 20.0},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Islak Kek", "calories": 320, "protein": 5.0, "carbs": 42.0, "fat": 14.5}
+  ],
+  "2026-11-17": [
+    {"name": "Kesme Aşı Çorbası", "calories": 190, "protein": 7.5, "carbs": 28.0, "fat": 5.0},
+    {"name": "Nohut", "calories": 310, "protein": 15.0, "carbs": 40.0, "fat": 9.5},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Yoğurt", "calories": 110, "protein": 6.0, "carbs": 8.0, "fat": 6.0}
+  ],
+  "2026-11-18": [
+    {"name": "Mercimek Çorbası", "calories": 160, "protein": 8.0, "carbs": 22.0, "fat": 4.5},
+    {"name": "Hasanpaşa Köfte", "calories": 390, "protein": 23.0, "carbs": 22.0, "fat": 23.0},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Mevsim Salata", "calories": 65, "protein": 1.5, "carbs": 7.0, "fat": 3.5}
+  ],
+  "2026-11-19": [
+    {"name": "Tarhana Çorbası", "calories": 155, "protein": 5.5, "carbs": 24.0, "fat": 4.0},
+    {"name": "Zeytinyağlı Pırasa", "calories": 170, "protein": 3.0, "carbs": 20.0, "fat": 8.5},
+    {"name": "Fırında Makarna", "calories": 380, "protein": 13.0, "carbs": 50.0, "fat": 14.0},
+    {"name": "Kemalpaşa", "calories": 290, "protein": 4.0, "carbs": 52.0, "fat": 7.0}
+  ],
+  "2026-11-20": [
+    {"name": "Mantar Çorbası", "calories": 145, "protein": 4.0, "carbs": 16.0, "fat": 7.0},
+    {"name": "Tavuk Pesto Makarna", "calories": 460, "protein": 28.0, "carbs": 48.0, "fat": 17.0},
+    {"name": "Ispanaklı Börek", "calories": 330, "protein": 10.0, "carbs": 35.0, "fat": 16.5},
+    {"name": "Meyve", "calories": 85, "protein": 0.5, "carbs": 21.0, "fat": 0.2}
+  ],
+  "2026-11-21": [
+    {"name": "Domates Çorbası", "calories": 135, "protein": 3.5, "carbs": 19.0, "fat": 5.0},
+    {"name": "Etli Patlıcan Musakka", "calories": 310, "protein": 19.0, "carbs": 15.0, "fat": 19.0},
+    {"name": "Bulgur Pilavı", "calories": 250, "protein": 6.0, "carbs": 42.0, "fat": 6.5},
+    {"name": "Puding", "calories": 240, "protein": 4.5, "carbs": 38.0, "fat": 7.5}
+  ],
+  "2026-11-22": [
+    {"name": "Ankara Çorbası", "calories": 180, "protein": 7.0, "carbs": 25.0, "fat": 5.5},
+    {"name": "Kuru Fasulye", "calories": 320, "protein": 16.0, "carbs": 42.0, "fat": 9.5},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Turşu", "calories": 20, "protein": 0.5, "carbs": 4.0, "fat": 0.1}
+  ],
+  "2026-11-23": [
+    {"name": "Tarhana Çorbası", "calories": 155, "protein": 5.5, "carbs": 24.0, "fat": 4.0},
+    {"name": "Kadınbudu Köfte", "calories": 370, "protein": 21.0, "carbs": 24.0, "fat": 21.0},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Semizotlu Yoğurt", "calories": 115, "protein": 6.5, "carbs": 9.0, "fat": 6.0}
+  ],
+  "2026-11-24": [
+    {"name": "Yayla Çorbası", "calories": 160, "protein": 6.0, "carbs": 20.0, "fat": 6.0},
+    {"name": "Pide", "calories": 480, "protein": 22.0, "carbs": 54.0, "fat": 19.0},
+    {"name": "Ayran", "calories": 75, "protein": 4.0, "carbs": 6.0, "fat": 4.0},
+    {"name": "Salata", "calories": 65, "protein": 1.5, "carbs": 7.0, "fat": 3.5}
+  ],
+  "2026-11-25": [
+    {"name": "Mercimek Çorbası", "calories": 160, "protein": 8.0, "carbs": 22.0, "fat": 4.5},
+    {"name": "Nohut", "calories": 310, "protein": 15.0, "carbs": 40.0, "fat": 9.5},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Turşu", "calories": 20, "protein": 0.5, "carbs": 4.0, "fat": 0.1}
+  ],
+  "2026-11-26": [
+    {"name": "Domates Çorbası", "calories": 135, "protein": 3.5, "carbs": 19.0, "fat": 5.0},
+    {"name": "Fırın Baget", "calories": 330, "protein": 29.0, "carbs": 8.0, "fat": 20.0},
+    {"name": "Bulgur Pilavı", "calories": 250, "protein": 6.0, "carbs": 42.0, "fat": 6.5},
+    {"name": "Meyve", "calories": 85, "protein": 0.5, "carbs": 21.0, "fat": 0.2}
+  ],
+  "2026-11-27": [
+    {"name": "Ayranaşı Çorbası", "calories": 185, "protein": 8.5, "carbs": 26.0, "fat": 5.0},
+    {"name": "Etli Patates", "calories": 320, "protein": 18.0, "carbs": 26.0, "fat": 16.0},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Yoğurt", "calories": 110, "protein": 6.0, "carbs": 8.0, "fat": 6.0}
+  ],
+  "2026-11-28": [
+    {"name": "Mantar Çorbası", "calories": 145, "protein": 4.0, "carbs": 16.0, "fat": 7.0},
+    {"name": "Hünkarbeğendi", "calories": 440, "protein": 26.0, "carbs": 22.0, "fat": 27.0},
+    {"name": "Pirinç Pilavı", "calories": 280, "protein": 4.5, "carbs": 48.0, "fat": 7.5},
+    {"name": "Mevsim Salata", "calories": 65, "protein": 1.5, "carbs": 7.0, "fat": 3.5}
+  ],
+  "2026-11-29": [
+    {"name": "Şehriye Çorbası", "calories": 140, "protein": 4.0, "carbs": 22.0, "fat": 4.0},
+    {"name": "Barbekü Soslu Burger", "calories": 520, "protein": 27.0, "carbs": 46.0, "fat": 25.0},
+    {"name": "Elma Dilimi Patates", "calories": 270, "protein": 3.5, "carbs": 36.0, "fat": 12.5},
+    {"name": "Meyve Suyu", "calories": 110, "protein": 0.5, "carbs": 26.0, "fat": 0.1}
+  ],
+  "2026-11-30": [
+    {"name": "Sebze Çorbası", "calories": 120, "protein": 3.5, "carbs": 17.0, "fat": 4.0},
+    {"name": "Ispanak", "calories": 180, "protein": 6.5, "carbs": 14.0, "fat": 10.5},
+    {"name": "Kremalı Makarna", "calories": 410, "protein": 12.0, "carbs": 52.0, "fat": 17.0},
+    {"name": "Kemalpaşa", "calories": 290, "protein": 4.0, "carbs": 52.0, "fat": 7.0}
+  ]
+}
